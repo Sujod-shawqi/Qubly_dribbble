@@ -1,0 +1,61 @@
+@media (max-width: 575.98px){
+    .sub-header{
+        flex-direction: column-reverse;
+    }
+    .left-header{
+       text-align: center;
+    }
+    .all-boxs{
+        flex-direction: column;
+       text-align: center;
+    }
+    .teams{
+        flex-direction: column;
+        text-align: center;
+    }
+    .chat{
+        width: 300px;
+    }
+    .all-photo{
+        flex-direction: column;
+        align-items: center;
+    }
+    .clearbit{
+        margin: 10px;
+    }
+    .form-sign{
+        flex-direction: column;
+        text-align: center;
+    }
+    .accenture{
+       display: flex;
+       justify-content: center;
+    }
+    .background-form{
+        display: flex;
+        justify-content: center;
+        /* width: 400px;
+        height: 300px; */
+    }
+    .input-form{
+        width: 450px;
+        height: 500px;
+        transform: translate(-2px, 35px);
+    }
+    .inpt {
+        padding: 14px 15px;
+        margin: 7px 23px;
+    }
+    .footer{
+        flex-direction: column;
+       text-align: center;
+    }
+    .fa-paper-plane{
+        transform: translate(-41px, 3px);
+    }
+    .socialmedia{
+      display: flex;
+      justify-content: center;
+    }
+    
+}
